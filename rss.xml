@@ -4,8 +4,15 @@
         <description><![CDATA[Band Staff]]></description>
         <link>https://thegrid.ai/band-staff/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 19:00:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 19:04:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/band-staff/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>link to facebook?</p>]]></description>
+            <link>https://thegrid.ai/band-staff/link-to-facebook/index.html</link>
+            <guid isPermaLink="false">ae044b12-5132-44a4-98ab-b8df2e83bd27</guid>
+            <pubDate>Sun, 15 May 2016 19:04:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hempfield Band Calendar]]></title>
             <description><![CDATA[<h1>Hempfield Band Calendar</h1>]]></description>
