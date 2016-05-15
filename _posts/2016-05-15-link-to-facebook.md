@@ -4,23 +4,21 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: link to facebook?
-datePublished: '2016-05-15T19:04:38.785Z'
-dateModified: '2016-05-15T19:04:38.537Z'
+description: ''
+datePublished: '2016-05-15T19:18:42.658Z'
+dateModified: '2016-05-15T19:06:51.164Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-15-link-to-facebook.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
-starred: false
-sourcePath: _posts/2016-05-15-link-to-facebook.md
+starred: true
 url: link-to-facebook/index.html
 _type: Article
 
 ---
-[link to facebook?][0]
-
-[0]: www.facebook.com
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf08d862-3141-4312-9081-941595164c99.jpg)
