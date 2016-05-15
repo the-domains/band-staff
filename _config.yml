@@ -1,7 +1,7 @@
 name: Band Staff
 favicon: null
-layout_spectrum: 0.6578345978632569
-typography_spectrum: 0.7367495035286993
+layout_spectrum: 1
+typography_spectrum: 0.49833
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#7fc3c2'
     - '#333333'
     - '#008096'
-  brandStrength: 0.6052023256197572
-  lightness: 0.8521615054924041
-  saturation: 0.5678869844414294
-  rhythmicContrast: 0.22537411423400044
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
