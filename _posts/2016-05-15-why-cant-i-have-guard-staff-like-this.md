@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Why can't I have guard staff like this."
-datePublished: '2016-05-15T18:57:17.837Z'
-dateModified: '2016-05-15T18:56:11.663Z'
+datePublished: '2016-05-15T19:21:15.168Z'
+dateModified: '2016-05-15T19:20:46.524Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-15-why-cant-i-have-guard-staff-like-this.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-15-why-cant-i-have-guard-staff-like-this.md
 url: why-cant-i-have-guard-staff-like-this/index.html
 _type: Article
 
